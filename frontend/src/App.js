@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import Login from './paginas/Login';
-import Registrar from './paginas/Registrar';
-import Agenda from './paginas/Agenda';
+import Registrar from './paginas/registrar';
+import Agenda from './paginas/genda';
 import Escolas from './paginas/escolas';
 import Forum from './paginas/Forum';
 
